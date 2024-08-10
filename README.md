@@ -10,7 +10,7 @@ Additionally, if you're making something and want to let us know, feel free to p
 
 ## Disallowed Content
 
-- If the content made for another game or product, violates the policies, guidelines, or terms of said game or product
+- If the content made for another game or product violates the policies, guidelines, or terms of said game or product
 - Content that promotes hate speech, violence, threats, or attacks on other people
 - Any content that is sexually explicit, suggestive, or obscene
 - Any content that distributes malware, or abuses security exploits
