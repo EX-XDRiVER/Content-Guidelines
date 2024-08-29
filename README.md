@@ -10,21 +10,26 @@ Additionally, if you're making something and want to let us know, feel free to p
 
 ## Disallowed Content
 
+- Any content that:
+  - Promotes hate speech, violence, threats, or attacks on other people
+  - Is sexually explicit, suggestive, or obscene
+  - Distributes malware, or abuses security exploits
+  - Is paywalled or being sold for monetary value
+  - Involves cryptocurrency or any NFT related activity
+  - Utilizes, involves or is created with generative AI
 - If the content made for another game or product violates the policies, guidelines, or terms of said game or product
-- Content that promotes hate speech, violence, threats, or attacks on other people
-- Any content that is sexually explicit, suggestive, or obscene
-- Any content that distributes malware, or abuses security exploits
-- Any content that involves cryptocurrency or any NFT related activity
-- Any content involving, utilizing, or created with generative AI
-- Any merchandise relating to the game being sold in any way must be approved via [email](mailto:contact@xdrv.team) at [contact@xdrv.team](mailto:contact@xdrv.team).
+
+Additionally, any merchandise relating to the game being sold in any way must be approved via [email](mailto:contact@xdrv.team) at [contact@xdrv.team](mailto:contact@xdrv.team).
 
 ## Custom/Fanmade Charts for other games
 
 If you're working on custom/fanmade charts for other games using the music featured in EX-XDRiVER, we have created a list of all songs approved for use. This list will be periodically updated as we update and add content to the game.
 
+Credit must be given as necessary.
+
 This list can be found [here](https://docs.google.com/spreadsheets/d/1gxUnScr24iShFSdBjL-wL1674XTP6zx8Yg1Jutacxwc).
 
-Credit must be given as necessary.
+Additionally, this list also covers songs allowed for use in creating custom charts of existing songs in EX-XDRiVER. While allowed, do not replicate or copy existing charts in the base game.
 
 ## Game Modding
 
@@ -59,4 +64,4 @@ While we usually do not include future content in updates, some small things do 
 
 If you have any questions about anything you're unsure about, or something that isn't completely covered here, ask us on Discord or send us an [email](mailto:contact@xdrv.team) at [contact@xdrv.team](mailto:contact@xdrv.team).
 
-> Guidelines last updated on **August 9th, 2024**.
+> Guidelines last updated on **August 28th, 2024**.
