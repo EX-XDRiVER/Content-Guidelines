@@ -17,7 +17,7 @@ Additionally, if you're making something and want to let us know, feel free to p
   - Is paywalled or being sold for monetary value
   - Involves cryptocurrency or any NFT related activity
   - Utilizes, involves or is created with generative AI
-- If the content made for another game or product violates the policies, guidelines, or terms of said game or product
+- Any content made for another game or product that violates the policies, guidelines, or terms of said game or product
 
 Additionally, any merchandise relating to the game being sold in any way must be approved via [email](mailto:contact@xdrv.team) at [contact@xdrv.team](mailto:contact@xdrv.team).
 
