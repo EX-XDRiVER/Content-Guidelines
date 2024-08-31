@@ -4,7 +4,7 @@ These guidelines are subject to change at any time.
 
 We absolutely encourage creating custom/fanmade content. However, we would like to set some general guidelines to follow.
 
-While it is not required, we appreciate it if you link back to either our [website](https://xdrv.team) or the game's [Steam page](https://steamcommunity.com/app/2636020/).
+While it is not required, we appreciate it if you link back to either our [website](https://xdrv.team) or the game's [Steam page](https://steamcommunity.com/app/2636020/), as well as linking to any artist's pages if you're using music and/or jackets.
 
 Additionally, if you're making something and want to let us know, feel free to post about it in our community Discord!
 
@@ -64,4 +64,4 @@ While we usually do not include future content in updates, some small things do 
 
 If you have any questions about anything you're unsure about, or something that isn't completely covered here, ask us on Discord or send us an [email](mailto:contact@xdrv.team) at [contact@xdrv.team](mailto:contact@xdrv.team).
 
-> Guidelines last updated on **August 28th, 2024**.
+> Guidelines last updated on **August 31st, 2024**.
